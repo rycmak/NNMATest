@@ -1,4 +1,4 @@
 NNMATest
 ========
 
-A small NNMA test on an RGB image.
+A small non-negative matrix approximation (NNMA) test decomposition and reconstruction of an RGB image.
